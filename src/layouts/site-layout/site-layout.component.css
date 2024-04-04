@@ -1,0 +1,10 @@
+.exit-button {
+  margin-top: 3%;
+  margin-left: 90%;
+}
+.mat-button {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 999;
+}

@@ -1,0 +1,42 @@
+.title {
+  text-align: center;
+  color: #b70085
+}
+
+.auth-form {
+  margin: auto;
+  height: 90vh;
+  max-width: 400px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column
+}
+
+.buttons {
+  display: flex;
+  flex-direction: row;
+
+}
+
+.logIn {
+  padding-left: 10px
+}
+
+button {
+  margin: auto;
+  width: 150px;
+}
+
+span {
+  color: red;
+  font-size: 12px;
+}
+
+.out {
+  padding-top: 20px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 1rem;
+  font-weight: bold;
+  color: #b70085
+}

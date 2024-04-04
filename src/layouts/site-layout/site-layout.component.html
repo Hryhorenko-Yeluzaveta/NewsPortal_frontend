@@ -1,0 +1,15 @@
+
+<button
+  mat-flat-button
+  class="exit-button" (click)="logout($event)"
+  color="accent"
+>
+  Выйти</button>
+
+<div class="mat-button">
+  <button mat-mini-fab type="button" routerLink="form">
+    <mat-icon>create</mat-icon>
+  </button>
+</div>
+
+<router-outlet></router-outlet>
